@@ -1,0 +1,24 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "joi": "^17.7.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.3",
+    "vitest": "^0.28.4"
+  }
+}
